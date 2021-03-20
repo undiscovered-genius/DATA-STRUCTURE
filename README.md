@@ -18,5 +18,8 @@
        2. Circular Queue
        3. Double Ended Queue
        4. Stack
+       5. Singly Linked List
+       6. Circular Linked List
+       7. Doubly Linked List
        
       

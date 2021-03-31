@@ -21,5 +21,6 @@
        5. Singly Linked List
        6. Circular Linked List
        7. Doubly Linked List
+       8. Tree - Inorder, Postorder, Preorder Traversal
        
       

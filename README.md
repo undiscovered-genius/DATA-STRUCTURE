@@ -22,5 +22,6 @@
        6. Circular Linked List
        7. Doubly Linked List
        8. Tree - Inorder, Postorder, Preorder Traversal
+       9. Binary Search Tree - Search, Delete
        
       
